@@ -1,1 +1,1 @@
-# java24-25labs
+# java24-25lab1
