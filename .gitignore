@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven/Gradle
+target/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.class
+*.tmp
+*.bak
+*.swp
+
+# JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
